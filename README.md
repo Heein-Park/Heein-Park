@@ -1,3 +1,3 @@
 Call me Heein Park.
 
-I usually script codes with Javascript to establish front-end architecture since Vanilla-script.
+I have scripted codes with Javascript since Vanilla-script.
